@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 [Home-app](https://home-app-angular-60143b4f4300.herokuapp.com/)
 ## Development server
 
-Run `node server.js` for a dev server. 
+Run `ng serve` for a dev server. 
 
 
 ## Build
